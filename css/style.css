@@ -2,11 +2,6 @@ html {
   scroll-behavior: smooth;
 }
 
-.view img{
-  height: 100%;
-  width: 100%;
-}
-
 footer {
   background-color: #1c2331;
   padding-top: 2em;
@@ -22,13 +17,8 @@ footer {
 }
 
 .carousel-item img {
-  height: 700px;
+  height: 100vh;
 }
-
-/* .carousel .carousel-inner .bg {
-  background-repeat:no-repeat;
-  background-size:cover;
-} */
 
 .view img {
   height: 400px;
