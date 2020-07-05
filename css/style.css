@@ -21,9 +21,9 @@ footer {
   transition: background-color 200ms linear;
 }
 
-.carousel-item img {
+/* .carousel-item img {
   height: 700px;
-}
+} */
 
 .view img {
   height: 400px;
