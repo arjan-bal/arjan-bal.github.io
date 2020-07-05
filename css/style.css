@@ -21,8 +21,13 @@ footer {
   transition: background-color 200ms linear;
 }
 
-/* .carousel-item img {
+.carousel-item img {
   height: 700px;
+}
+
+/* .carousel .carousel-inner .bg {
+  background-repeat:no-repeat;
+  background-size:cover;
 } */
 
 .view img {
