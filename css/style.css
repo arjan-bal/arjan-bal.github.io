@@ -7,10 +7,6 @@ footer {
   padding-top: 2em;
 }
 
-.avatar {
-  border-radius: 50%;
-}
-
 .fixed-top.scrolled {
   background-color: #343a40 !important;
   transition: background-color 200ms linear;
@@ -20,7 +16,7 @@ footer {
   height: 100vh;
 }
 
-.view img {
+.overlay {
   height: 400px;
 }
 
