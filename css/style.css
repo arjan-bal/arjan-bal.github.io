@@ -7,13 +7,17 @@ footer {
   padding-top: 2em;
 }
 
+.carousel-item img {
+  height: 100vh;
+}
+
+#carousel-example-2 .carousel-inner .carousel-item .view img {
+  height: 66vh;
+}
+
 .fixed-top.scrolled {
   background-color: #343a40 !important;
   transition: background-color 200ms linear;
-}
-
-.carousel-item img {
-  height: 100vh;
 }
 
 .overlay {
